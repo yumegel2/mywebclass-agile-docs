@@ -15,6 +15,29 @@ taking what you mean to say and turning into this type of documentation.
 * **[Agile Lean Part 1](https://youtu.be/e4FLisvf7vg)**
 * **[Agile Lean Part 2](https://youtu.be/KIxQaWsG3vk)**
 
+## Scope of the exercise
+
+In the spirit of Lean and to start our project off using the "pull" approach to develompent we will only focus on the
+following goal. MyWebClass is a website and we will need a development team that needs to work together in parallel
+meaning that we eventually need to produce various content to support the objectives of the site. In order for this to
+happen we need to create a basic web template that can be found using a search engine, addresses any legal requirements
+that are relevant to our project, allows us to legally use Google Analytics to measure user behaviour on the site, and
+passes [w3c validation](https://validator.w3.org), [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/), [GDPR Scanner](https://2gdpr.com).
+
+In addition to planning the initial 0.1.0 release of the website template we also need a plan setup a DevOps process
+that support the development of the project.
+
+In general, you can expect that you have 3 major parts to your plan at this stage:
+
+1. Basic Project Documentation and Project Management
+2. DevOps
+3. MyWebClass.org base website template with all technical and legal requirements satisfied to use Google Analytics and
+   be appropriately listed in a search engine by implementing the basic on page SEO requirements.
+
+To assist you with this project, I've included ALL of the code for required for a web page in
+the [src/index.html](src/index.html) file and included comments as to why that line is in there, so that you can write a
+user story and eventually a test for it.
+
 ## Things to consider:
 
 1. Lean and Agile are both ideas that are complementary; however, neither is prescriptive in their implementation. Your
@@ -60,30 +83,6 @@ taking what you mean to say and turning into this type of documentation.
    and LEARN, its not necessary or expected for something to be perfect, it is expected that any resources invested in
    something have some methodology to evaluate performance, and provide feedback for continuous improvement.
 
-## Scope of the exercise
-
-In the spirit of Lean and to start our project off using the "pull" approach to develompent we will only focus on the
-following goal. MyWebClass is a website and we will need a development team that needs to work together in parallel
-meaning that we eventually need to produce various content to support the objectives of the site. In order for this to
-happen we need to create a basic web template that can be found using a search engine, addresses any legal requirements
-that are relevant to our project, allows us to legally use Google Analytics to measure user behaviour on the site, and
-passes [w3c validation](https://validator.w3.org), [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/), [GDPR Scanner](https://2gdpr.com).
-
-In addition to planning the initial 0.1.0 release of the website template we also need a plan setup a DevOps process
-that support the development of the project.
-
-In general, you can expect that you have 3 major parts to your plan at this stage:
-
-1. Basic Project Documentation and Project Management
-2. DevOps
-3. MyWebClass.org base website template with all technical and legal requirements satisfied to use Google Analytics and
-   be appropriately listed in a search engine by implementing the basic on page SEO requirements.
-
-To assist you with this project, I've included ALL of the code for required for a web page in
-the [src/index.html](src/index.html) file and included comments as to why that line is in there, so that you can write a
-user story and eventually a test for it.
-
-
 ## Grading
 
 For this assignment you will need to find a partner to review your project documentation and you will need to review
@@ -92,13 +91,13 @@ file them as issues on your repository. Resolve the issues using branches and me
 have the best version of your project plan that combines the best ideas of you and your partner. Do not do the first
 draft of the plan together, design it yourself and you should review your partners plan, and they should review yours.  Practice using the GitHub comment and review tool to review the agile tasks.  [Watch this video on how to do a code review using GitHUb](https://www.youtube.com/watch?v=8fx-EaOUK2E)
 
-## Grading Rubric
+### Grading Rubric
 
 1. 25 Points for having at least 5 comments on your code by your partner that result in 5 issues being created and  resolved.
 2. 50 Points effective and sensible organization of your project that applies Agile and Lean ideas.   Use ChatGPT to help you with the writing, so that its written with a professional business tone and vocabulary. 
 3. 25 Points for demonstrating that you understand that each activity needs to be measured and that each task needs some combination of manual and automated testing.
 
-## Submission
+### Submission
 Once you have the best version of your project plan after comparing it and resoling the issues turn the plan into Canvas.
 
 
