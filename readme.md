@@ -1,30 +1,22 @@
 # MyWebClass.Org Project
 
-## Install Instructions - Local Development
-1. [Mac](#)
-2. [Windows 10](#)
-3. [Windows 11](#)
-4. [Ubuntu Desktop](#)
-5. [Ubuntu Server](#)
+## Overview
 
-## Install Instructions - Oracle Cloud 
+Looking to learn modern software development technologies and processes in a hands-on learning environment? Look no
+further than MyWebClass! Our platform provides an integrated learning experience that contextualizes technology with
+business processes to provide realistic scenarios for students to learn technology in a hands-on real world environment.
 
+## Our Project Values
 
-## Docker Commands
+## Agile Project Documentation
+### Templates
+* [Theme Template](documentation/templates/theme/theme_template.md)
+* [Initiative Template](documentation/templates/theme/initiatives/initiative_template.md)
+* [Epic Template](documentation/templates/theme/initiatives/epics/epic_template.md)
+* [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 
-1. "docker compose up" Runs in the foreground without rebuilding the docker image
-2. "docker compose up --build" runs in the foreground and builds the dockerfile locally
-3. "docker compose up -d" runs the existing docker image and services in the background
-4. "docker compose up --build -d" runs in the background and builds the image
-5. "docker compose stop" Stops all the services that the docker-compose.yml file in the current directory of command
-   started
-6. "docker compose down" Deletes all the services that the docker-compose.yml file in the current directory of command
-   started
+## Release Schedule
+| Release Version | Release Date | Theme                                                 |
+|-----------------|--------------|-------------------------------------------------------|
+| 0.1.x           | TBD          | [Project Setup](documentation/theme_1/theme_project_setup.md) |
 
-## GIT Commands
-
-## NPM / Node Commands
-
-## Python Commands
-
-## Linux Commands
