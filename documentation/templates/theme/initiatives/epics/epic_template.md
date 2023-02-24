@@ -15,3 +15,6 @@ Estimated Effort: [Estimate the effort required to complete the epic]
 Business Value: [Specify the business value that will be delivered by the epic]
 
 Priority: [Assign a priority to the epic]
+
+# List stories related to this theme
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
