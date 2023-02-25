@@ -11,7 +11,7 @@ meaning that you need to think and create and not just follow a set of instructi
 instructions for yourself and the development team that you will be part of and/or possibly leading in the future. For
 this assignment, you should use ChatGPT as much as possible to help you write good documentation. It is very good at
 taking what you mean to say and turning into this type of documentation.
-
+# Videos
 * **[Agile Lean Part 1](https://youtu.be/e4FLisvf7vg)**
 * **[Agile Lean Part 2](https://youtu.be/KIxQaWsG3vk)**
 
