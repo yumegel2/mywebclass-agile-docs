@@ -52,3 +52,7 @@ Team:
     2. Business Analyst: The business analyst is responsible for gathering and analyzing requirements and ensuring that they are documented accurately.
     3. Quality Assurance: The quality assurance team is responsible for reviewing the documentation to ensure that it meets quality standards and is error-free.
     4. Technical Writers: Technical writers have expertise in developing clear, concise, and accurate documentation that meets the needs of different stakeholders.
+
+Epics:
+* [Develop comprehensive project scope and requirements documentation.](epics/requirements_epic.md)
+* [Create high-quality project documentation that meets stakeholder needs.](epics/stakeholders_epic.md)
