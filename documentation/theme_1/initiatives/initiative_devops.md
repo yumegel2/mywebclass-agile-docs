@@ -59,8 +59,8 @@ Team:
     4. Project Manager: responsible for overseeing the entire software development lifecycle, including the implementation of the CI/CD pipeline.
 
 ## Epics
-* [Automated testing to catch issues early on and adapt to changing requirements] (../epics/devops-issues_epic.md)
-* [Automated deployment of the current development branch to team members local environments to facilitate manual review] (../epics/devops-deployment_epic.md)
+* [Automated testing to catch issues early on and adapt to changing requirements.](../epics/devops-issues_epic.md)
+* [Automated deployment of the current development branch to team members local environments to facilitate manual review.](../epics/devops-deployment_epic.md)
 
 ## Test Plan
 How will these be tested?
