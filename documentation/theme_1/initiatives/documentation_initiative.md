@@ -54,5 +54,5 @@ Team:
     4. Technical Writers: Technical writers have expertise in developing clear, concise, and accurate documentation that meets the needs of different stakeholders.
 
 Epics:
-* [Develop comprehensive project scope and requirements documentation.](epics/requirements_epic.md)
-* [Create high-quality project documentation that meets stakeholder needs.](epics/stakeholders_epic.md)
+* [Develop comprehensive project scope and requirements documentation.](epics/documentation-requirements_epic.md)
+* [Create high-quality project documentation that meets stakeholder needs.](epics/documentation-stakeholders_epic.md)
