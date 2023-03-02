@@ -3,7 +3,6 @@ Task Title: Create a Detailed Project Charter
 User Story: As a project team member, I want to create a detailed project charter so that I can clearly define the project's objectives, deliverables, and constraints.
 
 Description: Create a detailed project charter that defines the project's objectives, deliverables, and constraints. The charter should include the following:
-
 Project purpose and justification
 Project scope and objectives
 Deliverables and milestones
