@@ -1,4 +1,4 @@
-"Integration and Deployment"
+Epic 2A:"Integration and Deployment"
 
 Description: The goal of this epic is to integrate the initial web page template with the client's content management system (CMS) and deploy it to a web hosting service. This will enable the client to easily manage and update content on their website, and make the website publicly accessible to their audience.
 

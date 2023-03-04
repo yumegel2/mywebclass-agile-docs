@@ -1,4 +1,4 @@
-User Story: As a web developer, I want to develop a modular design that can be easily adapted for subsequent web pages, reducing development time and effort.
+User Story 2: As a web developer, I want to develop a modular design that can be easily adapted for subsequent web pages, reducing development time and effort.
 
 Acceptance Criteria:
 * The modular design should be reusable across multiple web pages.

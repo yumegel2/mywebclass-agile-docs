@@ -1,4 +1,4 @@
-"Initial Web Page Template"
+Initiative 2: "Initial Web Page Template"
 
 Description: an initial web page template provides a basic structure and layout for a web page that can be customized and populated with content to create a unique and functional website.
 

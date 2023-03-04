@@ -1,4 +1,4 @@
-Task Title: Implement Automated Unit Testing
+Task 3 Title: Implement Automated Unit Testing
 
 User Story: As a software developer, I want to implement automated unit testing to catch code defects early on in the development process.
 

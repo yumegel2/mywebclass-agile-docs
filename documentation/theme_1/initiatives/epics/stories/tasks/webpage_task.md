@@ -1,4 +1,4 @@
-Task Title: Develop a modular design for web pages
+Task 2 Title: Develop a modular design for web pages
 
 User Story: As a web developer, I want to develop a modular design that can be easily adapted for subsequent web pages, reducing development time and effort.
 

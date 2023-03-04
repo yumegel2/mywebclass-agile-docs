@@ -1,4 +1,4 @@
-"Automated Testing to Catch Issues Early On and Adapt to Changing Requirements"
+Epic 3B: "Automated Testing to Catch Issues Early On and Adapt to Changing Requirements"
 
 Description: The goal of this epic is to implement automated testing processes that can catch issues early on in the development process and adapt to changing requirements. This will help improve the quality of the software being developed, increase efficiency, and reduce the risk of errors and defects.
 

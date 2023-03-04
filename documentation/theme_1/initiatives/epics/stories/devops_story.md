@@ -1,4 +1,4 @@
-User Story: As a software developer, I want to implement automated unit testing to catch code defects early on in the development process.
+User Story 3: As a software developer, I want to implement automated unit testing to catch code defects early on in the development process.
 
 Acceptance Criteria:
 * A suite of automated unit tests should be created for each module or component of the software application.

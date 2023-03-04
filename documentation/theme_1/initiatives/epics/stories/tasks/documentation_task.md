@@ -1,4 +1,4 @@
-Task Title: Create a Detailed Project Charter
+Task 1 Title: Create a Detailed Project Charter
 
 User Story: As a project team member, I want to create a detailed project charter so that I can clearly define the project's objectives, deliverables, and constraints.
 
