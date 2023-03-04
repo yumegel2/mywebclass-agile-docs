@@ -1,4 +1,4 @@
-"Template Design and Development"
+Epic 2B: "Template Design and Development"
 
 Description: The goal of this epic is to design and develop an initial web page template that is visually appealing, user-friendly, and meets the branding and content needs of our client. This will help ensure that subsequent web pages can be created efficiently and consistently, reducing development time and increasing the quality of our output.
 

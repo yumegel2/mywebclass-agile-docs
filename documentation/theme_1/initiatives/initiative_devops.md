@@ -1,4 +1,4 @@
-"Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices"
+Initiative 3: "Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices"
 
 Description: Setting up a CI/CD pipeline is an important part of a DevOps process to automate building, testing, and deploying applications. To ensure efficient and collaborative development, involve all stakeholders, use collaboration and communication tools, and monitor application performance. This ensures that code changes are tested and integrated frequently and deployed quickly and reliably.
 

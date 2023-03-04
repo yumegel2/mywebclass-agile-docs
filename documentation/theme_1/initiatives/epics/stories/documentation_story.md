@@ -1,4 +1,4 @@
-User Story: As a project team member, I want to create a detailed project charter so that I can clearly define the project's objectives, deliverables, and constraints.
+User Story 1: As a project team member, I want to create a detailed project charter so that I can clearly define the project's objectives, deliverables, and constraints.
 
 Acceptance Criteria:
 * The project charter should clearly define the project's objectives, deliverables, and constraints.

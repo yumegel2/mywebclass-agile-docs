@@ -1,4 +1,4 @@
-"Develop Comprehensive Project Scope and Requirements Documentation"
+Epic 1A:"Develop Comprehensive Project Scope and Requirements Documentation"
 
 Description: The objective of this epic is to develop comprehensive project scope and requirements documentation for a project. This documentation will include a detailed description of the project's objectives, deliverables, and constraints, as well as any assumptions that have been made. The purpose of this documentation is to ensure that all stakeholders are aligned on the project's scope and that the project team has a clear understanding of what needs to be delivered.
 

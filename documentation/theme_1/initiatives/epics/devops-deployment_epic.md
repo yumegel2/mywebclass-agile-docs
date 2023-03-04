@@ -1,4 +1,4 @@
-"Automated Deployment of Current Development Branch for Manual Review"
+Epic 3A: "Automated Deployment of Current Development Branch for Manual Review"
 
 Description: The goal of this epic is to implement automated deployment processes that can deploy the current development branch to team members' local environments, facilitating manual review and testing. This will help increase the efficiency of the review process, reduce the risk of errors and defects, and ensure that team members are working with the most up-to-date version of the software.
 
